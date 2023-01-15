@@ -7,8 +7,6 @@ You can either:
 - open the projet in Unity, in [Assets/Scenes/main.unity](Assets/Scenes/main.unity) and hit the "Play" button.
 
 ## What is and is not done
-All the features asked for in the [subject](Docs/Subject.pdf) are implemented.
-
 There are very few animations.
 
 The faces of the Rubik's cube can sometimes be hard to rotate.
